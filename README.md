@@ -1,2 +1,2 @@
-# cucmber
+# cucumber
 applying BDD using cucumber
