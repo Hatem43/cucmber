@@ -7,7 +7,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 
         features ="E:\\cucumber\\src\\test\\resources\\features\\login.feature",
-        glue = {"StepDefinitions"},
+        glue = {"StepDefinitions","hooks"},
         plugin = {"pretty", "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"},
         monochrome = true
 )
