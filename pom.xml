@@ -10,8 +10,8 @@
     <packaging>jar</packaging>
 
     <properties>
-        <maven.compiler.source>23</maven.compiler.source>
-        <maven.compiler.target>23</maven.compiler.target>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
         <shaft_engine.version>8.4.20241024</shaft_engine.version>
         <aspectjweaver.version>1.9.22.1</aspectjweaver.version>
         <junit-jupiter-engine.version>5.11.3</junit-jupiter-engine.version>
